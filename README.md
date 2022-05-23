@@ -1,2 +1,2 @@
-# KitapPaylasimUygulamasi
-Bitirme Projesi / Booklist
+# Booklist
+Graduation Project
